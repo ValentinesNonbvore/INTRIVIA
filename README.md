@@ -30,3 +30,7 @@ Saya juga senang dengan kakak-kakak kluster saya karena mereka sangat ramah!
 
 Saya tidak ada pesan yang ingin ditinggalkan untuk teman sesama kluster ataupun untuk kakak-kakaknya.
 Menurut saya mereka sudah mengeksekusi tugas mereka dengan sangat baik.
+
+## Harapan Kuliah
+
+Dapat menimbah ilmu sebanyak-banyak mungkin dalam bidang IT.
